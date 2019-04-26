@@ -19,9 +19,13 @@ $ npm install axios
 ```
 
 2) **Using bower:**
-``` $ bower install axios```
-		or
-``` $ npm i axios```
+```
+$ bower install axios
+```
+or
+``` 
+$ npm i axios
+```
 
 If you want to read more about “Axios” so you can visite this link :- 
 https://www.npmjs.com/package/axios
