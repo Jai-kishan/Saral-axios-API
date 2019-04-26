@@ -1,6 +1,5 @@
 ## Saral-axios-API
-This course in we are learn how to work "axios" module in Node js also how to work file system
-
+SARAL is the eLearning platform of NavGurukul. Which is available on website saral.navgurukul.org created a CLI based app where users can access the content of Saral using the terminal. So basically I used Axios ( library in JavasScript used for making a HTTP requests 
 
 ## how to install node ?
 if you are working on windows open your command prompt and if you are working in mac or linux so open your terminal 
