@@ -15,13 +15,13 @@ otherwise type this command on your terminal :-
 Before using axios, you first need to install it.
 1) Using npm:
 ```
-### $ npm install axios
+$ npm install axios
 ```
 
 2) **Using bower:**
-```### $ bower install axios```
+``` $ bower install axios```
 		or
-```### $ npm i axios```
+``` $ npm i axios```
 
 If you want to read more about “Axios” so you can visite this link :- 
 https://www.npmjs.com/package/axios
@@ -30,9 +30,12 @@ https://www.npmjs.com/package/axios
 
 you can also visite on this line :-  https://www.npmjs.com/package/fs  
 
-```**$ npm i fs**
 ```
-```**$ sudo npm install fs**
+**$ npm i fs**
 ```
-```**$ sudo npm install fs --save**
+```
+**$ sudo npm install fs**
+```
+```
+**$ sudo npm install fs --save**
 ```
