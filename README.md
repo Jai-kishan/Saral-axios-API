@@ -31,11 +31,11 @@ https://www.npmjs.com/package/axios
 you can also visite on this line :-  https://www.npmjs.com/package/fs  
 
 ```
-**$ npm i fs**
+$ npm i fs
 ```
 ```
-**$ sudo npm install fs**
+$ sudo npm install fs
 ```
 ```
-**$ sudo npm install fs --save**
+$ sudo npm install fs --save
 ```
